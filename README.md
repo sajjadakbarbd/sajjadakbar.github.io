@@ -1,2 +1,16 @@
-# sajjadakbar.github.io
-Research, publications, academic projects, and digital resources by Sajjad Akbar, focusing on Islamic thought, comparative religion, philosophy, socio-political thought, and the intersection of classical Islamic intellectual traditions with contemporary questions.
+# Sajjad Akbar — Academic Portfolio
+
+A responsive academic portfolio website for Sajjad Akbar, Researcher & Author.
+
+## Sections
+- About
+- Research
+- Academic Work
+- Publications & Papers
+- Contact
+
+## Run locally
+Open `index.html` in any modern browser.
+
+## Customize
+Replace the hero card with a professional portrait if desired, and update links/contact details in `index.html`.
